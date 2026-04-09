@@ -324,3 +324,13 @@ TSWLatexianTemp*
 # option is specified. Footnotes are the stored in a file with suffix Notes.bib.
 # Uncomment the next line to have this generated file ignored.
 #*Notes.bib
+
+
+
+env
+
+# Local Go gateway binaries (go build -o bin/)
+bin/
+
+# Windows NTFS alternate data stream markers (e.g. "Mark of the Web" after download)
+**/*:Zone.Identifier
